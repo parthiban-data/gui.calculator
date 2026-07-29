@@ -15,10 +15,10 @@ A responsive calculator built using a single HTML file with HTML, CSS, and JavaS
 - JavaScript
 
 ## Live Demo
-[Click here to try the Calculator] (https://parthiban-data.github.io/gui.calculator/)
+[Click here to try the Calculator](https://parthiban-data.github.io/gui.calculator/)
 
 ## Screenshot
-![Calculator UI](screenshot.png)
+![Calculator UI](Screenshot.png)
 
 ## How to Run Locally
 1.Download 'index.html'
