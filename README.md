@@ -15,7 +15,7 @@ A responsive calculator built using a single HTML file with HTML, CSS, and JavaS
 - JavaScript
 
 ## Live Demo
-[Click here to try the Calculator](https://parthiban-data.github.io/gui-calculator/index.html)
+[Click here to try the Calculator] (https://parthiban-data.github.io/gui.calculator/)
 
 ## Screenshot
 ![Calculator UI](screenshot.png)
