@@ -15,11 +15,11 @@ A responsive calculator built using a single HTML file with HTML, CSS, and JavaS
 - JavaScript
 
 ## Live Demo
-[Click here to try the Calculator](https://parth.github.io/gui-calculator/calculator.html)
+[Click here to try the Calculator](https://parth.github.io/gui-calculator/index.html)
 
 ## Screenshot
 ![Calculator UI](screenshot.png)
 
 ## How to Run Locally
-1.Download 'calculator.html'
+1.Download 'index.html'
 2.Double click to open browser
